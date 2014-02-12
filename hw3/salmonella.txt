@@ -1,0 +1,8 @@
+﻿Kevin Suzuki
+
+
+First protein is ATP synthase SpaL [Salmonella enterica] 
+Second protein is antigen presentation protein SpaN [Salmonella enterica]  
+Third protein is type III secretion system protein SpaR [Salmonella enterica] 
+Fourth protein is type III secretion system protein SpaR [Salmonella enterica] 
+Fifth protein is type III secretion system protein SpaS [Salmonella enterica]

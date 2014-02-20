@@ -13,7 +13,7 @@ import Image
 
 def build_random_function(min_depth, max_depth):
     # your doc string goes here
-    #This function takes min_depth and max_depth as inputs and returns a random number of lists based upon the inputs
+    """This function takes min_depth and max_depth as inputs and returns a random number of lists based upon the inputs"""
     # your code goes here
     p=[['x'],['y']]
     if max_depth<=1:

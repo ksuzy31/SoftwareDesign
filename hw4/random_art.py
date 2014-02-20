@@ -13,7 +13,7 @@ import Image
 
 def build_random_function(min_depth, max_depth):
     # your doc string goes here
-    """This function takes min_depth and max_depth as inputs and returns a random number of lists based upon the inputs"""
+    """This function takes min_depth and max_depth as upper and lower bound inputs and creates a function that returns a random number of lists based upon the inputs"""
     # your code goes here
     p=[['x'],['y']]
     if max_depth<=1:
@@ -62,7 +62,7 @@ def remap_interval(val, input_interval_start, input_interval_end, output_interva
         TODO: please fill out the rest of this docstring
     """
     
-    """this code allows you to remap the interval which takes an input within an interval and maps it to an output interval. And you will have 
+    """this code allows you to remap the input interval and maps it to an output interval. It will find the change in the interval. 
     """
     # your code goes here
     val=float(val)
